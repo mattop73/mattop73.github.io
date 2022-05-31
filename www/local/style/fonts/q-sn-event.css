@@ -1,0 +1,8 @@
+@font-face {
+  font-family: q-sn-event ;
+  src: url('/style/fonts/q-sn-event/q-sn-event.eot');
+  src: url('/style/fonts/q-sn-event/q-sn-event.eot?#iefix') format('embedded-opentype'),
+       url('/style/fonts/q-sn-event/q-sn-event.woff') format('woff'),
+       url('/style/fonts/q-sn-event/q-sn-event.ttf') format('truetype'),
+       url('/style/fonts/q-sn-event/q-sn-event.svg#q-sn-event') format('svg');
+}.font-q-sn-event { font-family : q-sn-event; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

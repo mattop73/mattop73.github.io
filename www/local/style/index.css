@@ -1,0 +1,59 @@
+.darkcolor { color: #225F7E }
+.brightcolor { background-color: #B4DAEE }
+
+body { margin: 0px ; padding: 0px; font-family: Arial , sans-serif; font-size: 12px; color: #444 }
+a:link, a:visited { color: #120f83; text-decoration: none }
+a:hover { text-decoration: underline }
+input { width: 110px; height: 13px; border: solid 1px #666; margin: 0 5px }
+li { margin-left: -18px }
+
+#main { width: 900px; margin: auto ; border-left : solid 1px ; border-right : solid 1px ; border-bottom : solid 1px ; background-color:white;}
+#q_authentification { height: 60px; margin-top: 8px }
+#q_authentification a { font-size: 11px }
+
+#q_fullscreenmask { z-index: 6 ; padding: 0 ; margin : 0 ; width: 100% ; height: 100% ;  top:0px ; left:0px ; }
+.q_fullscreenmask { background-color:#777 ; opacity: 0.25 ; filter: alpha(opacity=25) ; padding: 0 ; margin : 0 ; width: 100% ; height: 100% ;  top:0px ; left:0px ; }
+
+.qlubname { margin: 0px ; width: 390px; height: 125px; background: transparent url(../images/clubname.png) no-repeat }
+.qlublogo { margin: 10px 0px ; width: 360px; height: 270px; background: transparent url(../images/clublogo.png) no-repeat; }
+.qlubcoord { margin: 20px 0 0 0px ; line-height: 16px }
+
+.loginblock { margin: 20px 0 0 0 }
+.loginblockheader { height: 45px; background: transparent url(../images/loginblockheader.png) no-repeat }
+.loginblockcontent { margin: 0 15px; color: #000; }
+.loginblockright { margin: 0 1px 1px 0; padding: 15px ; color: #000; border: solid #DDD ; border-width: 1px 0px 0px 1px }
+.logintitle { font-weight: bold; }
+.logintitlemembers { padding-top: 5px }
+.logintitlenonmembers { padding-top: 10px }
+.loginnonmembersinfo { padding: 10px 10px 0 25px }
+.logintitlevisitors { padding-top: 20px }
+.loginbutton { font-size: 13px; color: #FFF; line-height: 38px; text-align: center; cursor: pointer }
+.okbutton { width: 44px; height: 44px; background: transparent url(../images/loginokbutton.png) no-repeat; line-height: 44px }
+.cancelbutton { width: 88px; height: 44px; background: transparent url(../images/logincancelbutton.png) no-repeat; line-height: 44px }
+.visitorbutton { margin-left: 90px; width: 253px; height: 40px; background: transparent url(../images/loginvisitorbutton.png) no-repeat; line-height: 40px }
+
+.welcometext { font-size: 27px; padding: 9px 0 0 112px ; font-weight: bold }
+.infotxt { margin: 30px 0 10px 5px; color: #777; line-height: 16px }
+
+.bottominfo { width: 100%; height: 70px }
+.quomodologo { width: 135px; height: 35px; background: transparent url(/images/qlub/quomodologo.png) no-repeat; margin: 0 10px }
+.quomodoinfo { font-size: 11px; padding: 0 15px; white-space: nowrap }
+.quomodobutton { width: 229px; height: 39px; background: transparent url(/images/qlub/alubutton.png) no-repeat; cursor: pointer; line-height: 38px }
+
+.fixed { position : fixed }
+
+* html .fixed { position: absolute ;}
+* html .png , .pngscale , .pngimage , .pngcrop { behavior: url( "/style/iefixpng.htc" ); }
+* html .pngbtn , .pngbtnscale , .pngbtncrop , .pngbtnimage { behavior: url( "/style/iefixpngbtn.htc" ); }
+* html .imgbg { top:-66px ; }
+
+.subscribeform td { padding : 0px 0px 0px 10px ; line-height: 10px }
+.subscribeform .logintitle { padding : 0px ; line-height: 20px }
+
+.autow_visitorbutton_mout , .autow_visitorbutton_mover { cursor: pointer }
+.autow_visitorbutton_mout td , .autow_visitorbutton_mover td { padding : 0px }
+.autow_visitorbutton_mout div , .autow_visitorbutton_mover div { height: 40px; background: transparent url(../images/loginvisitorbutton.png) ; line-height: 40px ; color: #FFF; float: left }
+
+.qelgoog a { visibility : hidden }
+* html table { font-size: 12px }
+* html input { height: 19px; }

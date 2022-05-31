@@ -1,0 +1,8 @@
+@font-face {
+  font-family: q-sn-office ;
+  src: url('/style/fonts/q-sn-office/q-sn-office.eot');
+  src: url('/style/fonts/q-sn-office/q-sn-office.eot?#iefix') format('embedded-opentype'),
+       url('/style/fonts/q-sn-office/q-sn-office.woff') format('woff'),
+       url('/style/fonts/q-sn-office/q-sn-office.ttf') format('truetype'),
+       url('/style/fonts/q-sn-office/q-sn-office.svg#q-sn-office') format('svg');
+}.font-q-sn-office { font-family : q-sn-office; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

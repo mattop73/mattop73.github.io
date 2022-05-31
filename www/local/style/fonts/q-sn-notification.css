@@ -1,0 +1,8 @@
+@font-face {
+  font-family: q-sn-notification ;
+  src: url('/style/fonts/q-sn-notification/q-sn-notification.eot');
+  src: url('/style/fonts/q-sn-notification/q-sn-notification.eot?#iefix') format('embedded-opentype'),
+       url('/style/fonts/q-sn-notification/q-sn-notification.woff') format('woff'),
+       url('/style/fonts/q-sn-notification/q-sn-notification.ttf') format('truetype'),
+       url('/style/fonts/q-sn-notification/q-sn-notification.svg#q-sn-notification') format('svg');
+}.font-q-sn-notification { font-family : q-sn-notification; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

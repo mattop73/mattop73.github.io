@@ -1,0 +1,729 @@
+/* GENERAL */
+
+#footerbody , #maindiv { background-image: url( '../images/pagebackground.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); _background-image: url( '../images/pagebackground.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' );}
+#maindiv { padding-top: 17px }
+
+#adminpagediv, .default_font, #quomodo_body { font-family : Tahoma, Geneva, sans-serif }
+body.viewmode { width : 1002px }
+body.viewmode , body { 
+	background-color : #66CCFF ;
+}
+
+body.qlub_sitebgimage, .qlub_sitebgimage { 
+	background-image: url( '../images/sitebackground.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ) ; 
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
+/* TEXTBW */
+.isdark .clubcolorbw, .isdark a.clubcolorbw:link, .isdark a.clubcolorbw:visited, .isdark a.clubcolorbw:hover, .isdark a.clubcolorbw:active, .richtarget .isdark .clubcolorbw, .richtarget .isdark a.clubcolorbw:link, .richtarget .isdark a.clubcolorbw:visited, .richtarget .isdark a.clubcolorbw:hover, .richtarget .isdark a.clubcolorbw:active { color: #FFF }
+.isclear .clubcolorbw, .isclear a.clubcolorbw:link, .isclear a.clubcolorbw:visited, .isclear a.clubcolorbw:hover, .isclear a.clubcolorbw:active, .richtarget .isclear .clubcolorbw, .richtarget .isclear a.clubcolorbw:link, .richtarget .isclear a.clubcolorbw:visited, .richtarget .isclear a.clubcolorbw:hover, .richtarget .isclear a.clubcolorbw:active { color: #000 }
+.isbwpage .clubcolorbw, .isbwpage a.clubcolorbw:link, .isbwpage a.clubcolorbw:visited, .isbwpage a.clubcolorbw:hover, .isbwpage a.clubcolorbw:active, .richtarget .isbwpage .clubcolorbw, .richtarget .isbwpage a.clubcolorbw:link, .richtarget .isbwpage a.clubcolorbw:visited, .richtarget .isbwpage a.clubcolorbw:hover, .richtarget .isbwpage a.clubcolorbw:active { color: #000000 }
+.isbwc1 .clubcolorbw, .isbwc1 a.clubcolorbw:link, .isbwc1 a.clubcolorbw:visited, .isbwc1 a.clubcolorbw:hover, .isbwc1 a.clubcolorbw:active, .richtarget .isbwc1 .clubcolorbw, .richtarget .isbwc1 a.clubcolorbw:link, .richtarget .isbwc1 a.clubcolorbw:visited, .richtarget .isbwc1 a.clubcolorbw:hover, .richtarget .isbwc1 a.clubcolorbw:active { color: #000000 }
+.isbwc2 .clubcolorbw, .isbwc2 a.clubcolorbw:link, .isbwc2 a.clubcolorbw:visited, .isbwc2 a.clubcolorbw:hover, .isbwc2 a.clubcolorbw:active, .richtarget .isbwc2 .clubcolorbw, .richtarget .isbwc2 a.clubcolorbw:link, .richtarget .isbwc2 a.clubcolorbw:visited, .richtarget .isbwc2 a.clubcolorbw:hover, .richtarget .isbwc2 a.clubcolorbw:active { color: #000000 }
+.isbw1 .clubcolorbw, .isbw1 a.clubcolorbw:link, .isbw1 a.clubcolorbw:visited, .isbw1 a.clubcolorbw:hover, .isbw1 a.clubcolorbw:active, .richtarget .isbw1 .clubcolorbw, .richtarget .isbw1 a.clubcolorbw:link, .richtarget .isbw1 a.clubcolorbw:visited, .richtarget .isbw1 a.clubcolorbw:hover, .richtarget .isbw1 a.clubcolorbw:active { color: #000000 }
+.isbw2 .clubcolorbw, .isbw2 a.clubcolorbw:link, .isbw2 a.clubcolorbw:visited, .isbw2 a.clubcolorbw:hover, .isbw2 a.clubcolorbw:active, .richtarget .isbw2 .clubcolorbw, .richtarget .isbw2 a.clubcolorbw:link, .richtarget .isbw2 a.clubcolorbw:visited, .richtarget .isbw2 a.clubcolorbw:hover, .richtarget .isbw2 a.clubcolorbw:active { color: #FFFFFF }
+.isbw3 .clubcolorbw, .isbw3 a.clubcolorbw:link, .isbw3 a.clubcolorbw:visited, .isbw3 a.clubcolorbw:hover, .isbw3 a.clubcolorbw:active, .richtarget .isbw3 .clubcolorbw, .richtarget .isbw3 a.clubcolorbw:link, .richtarget .isbw3 a.clubcolorbw:visited, .richtarget .isbw3 a.clubcolorbw:hover, .richtarget .isbw3 a.clubcolorbw:active { color: #FFFFFF }
+.isbw4 .clubcolorbw, .isbw4 a.clubcolorbw:link, .isbw4 a.clubcolorbw:visited, .isbw4 a.clubcolorbw:hover, .isbw4 a.clubcolorbw:active, .richtarget .isbw4 .clubcolorbw, .richtarget .isbw4 a.clubcolorbw:link, .richtarget .isbw4 a.clubcolorbw:visited, .richtarget .isbw4 a.clubcolorbw:hover, .richtarget .isbw4 a.clubcolorbw:active { color: #000000 }
+.isbw5 .clubcolorbw, .isbw5 a.clubcolorbw:link, .isbw5 a.clubcolorbw:visited, .isbw5 a.clubcolorbw:hover, .isbw5 a.clubcolorbw:active, .richtarget .isbw5 .clubcolorbw, .richtarget .isbw5 a.clubcolorbw:link, .richtarget .isbw5 a.clubcolorbw:visited, .richtarget .isbw5 a.clubcolorbw:hover, .richtarget .isbw5 a.clubcolorbw:active { color: #000000 }
+.isbw6 .clubcolorbw, .isbw6 a.clubcolorbw:link, .isbw6 a.clubcolorbw:visited, .isbw6 a.clubcolorbw:hover, .isbw6 a.clubcolorbw:active, .richtarget .isbw6 .clubcolorbw, .richtarget .isbw6 a.clubcolorbw:link, .richtarget .isbw6 a.clubcolorbw:visited, .richtarget .isbw6 a.clubcolorbw:hover, .richtarget .isbw6 a.clubcolorbw:active { color: #000000 }
+.isbw7 .clubcolorbw, .isbw7 a.clubcolorbw:link, .isbw7 a.clubcolorbw:visited, .isbw7 a.clubcolorbw:hover, .isbw7 a.clubcolorbw:active, .richtarget .isbw7 .clubcolorbw, .richtarget .isbw7 a.clubcolorbw:link, .richtarget .isbw7 a.clubcolorbw:visited, .richtarget .isbw7 a.clubcolorbw:hover, .richtarget .isbw7 a.clubcolorbw:active { color: #000000 }
+
+.clubcolorbw.isdark, a.isdark.clubcolorbw:link, a.isdark.clubcolorbw:visited, a.isdark.clubcolorbw:hover, a.isdark.clubcolorbw:active, .richtarget .clubcolorbw.isdark, .richtarget a.isdark.clubcolorbw:link, .richtarget a.isdark.clubcolorbw:visited, .richtarget a.isdark.clubcolorbw:hover, .richtarget a.isdark.clubcolorbw:active { color: #FFF }
+.clubcolorbw.isclear, a.isclear.clubcolorbw:link, a.isclear.clubcolorbw:visited, a.isclear.clubcolorbw:hover, a.isclear.clubcolorbw:active, .richtarget .clubcolorbw.isclear, .richtarget a.isclear.clubcolorbw:link, .richtarget a.isclear.clubcolorbw:visited, .richtarget a.isclear.clubcolorbw:hover, .richtarget a.isclear.clubcolorbw:active { color: #000 }
+.clubcolorbw.isbwpage, a.isbwpage.clubcolorbw:link, a.isbwpage.clubcolorbw:visited, a.isbwpage.clubcolorbw:hover, a.isbwpage.clubcolorbw:active, .richtarget .clubcolorbw.isbwpage, .richtarget a.isbwpage.clubcolorbw:link, .richtarget a.isbwpage.clubcolorbw:visited, .richtarget a.isbwpage.clubcolorbw:hover, .richtarget a.isbwpage.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbwc1, a.isbwc1.clubcolorbw:link, a.isbwc1.clubcolorbw:visited, a.isbwc1.clubcolorbw:hover, a.isbwc1.clubcolorbw:active, .richtarget .clubcolorbw.isbwc1, .richtarget a.isbwc1.clubcolorbw:link, .richtarget a.isbwc1.clubcolorbw:visited, .richtarget a.isbwc1.clubcolorbw:hover, .richtarget a.isbwc1.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbwc2, a.isbwc2.clubcolorbw:link, a.isbwc2.clubcolorbw:visited, a.isbwc2.clubcolorbw:hover, a.isbwc2.clubcolorbw:active, .richtarget .clubcolorbw.isbwc2, .richtarget a.isbwc2.clubcolorbw:link, .richtarget a.isbwc2.clubcolorbw:visited, .richtarget a.isbwc2.clubcolorbw:hover, .richtarget a.isbwc2.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbw1, a.isbw1.clubcolorbw:link, a.isbw1.clubcolorbw:visited, a.isbw1.clubcolorbw:hover, a.isbw1.clubcolorbw:active, .richtarget .clubcolorbw.isbw1, .richtarget a.isbw1.clubcolorbw:link, .richtarget a.isbw1.clubcolorbw:visited, .richtarget a.isbw1.clubcolorbw:hover, .richtarget a.isbw1.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbw2, a.isbw2.clubcolorbw:link, a.isbw2.clubcolorbw:visited, a.isbw2.clubcolorbw:hover, a.isbw2.clubcolorbw:active, .richtarget .clubcolorbw.isbw2, .richtarget a.isbw2.clubcolorbw:link, .richtarget a.isbw2.clubcolorbw:visited, .richtarget a.isbw2.clubcolorbw:hover, .richtarget a.isbw2.clubcolorbw:active { color: #FFFFFF }
+.clubcolorbw.isbw3, a.isbw3.clubcolorbw:link, a.isbw3.clubcolorbw:visited, a.isbw3.clubcolorbw:hover, a.isbw3.clubcolorbw:active, .richtarget .clubcolorbw.isbw3, .richtarget a.isbw3.clubcolorbw:link, .richtarget a.isbw3.clubcolorbw:visited, .richtarget a.isbw3.clubcolorbw:hover, .richtarget a.isbw3.clubcolorbw:active { color: #FFFFFF }
+.clubcolorbw.isbw4, a.isbw4.clubcolorbw:link, a.isbw4.clubcolorbw:visited, a.isbw4.clubcolorbw:hover, a.isbw4.clubcolorbw:active, .richtarget .clubcolorbw.isbw4, .richtarget a.isbw4.clubcolorbw:link, .richtarget a.isbw4.clubcolorbw:visited, .richtarget a.isbw4.clubcolorbw:hover, .richtarget a.isbw4.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbw5, a.isbw5.clubcolorbw:link, a.isbw5.clubcolorbw:visited, a.isbw5.clubcolorbw:hover, a.isbw5.clubcolorbw:active, .richtarget .clubcolorbw.isbw5, .richtarget a.isbw5.clubcolorbw:link, .richtarget a.isbw5.clubcolorbw:visited, .richtarget a.isbw5.clubcolorbw:hover, .richtarget a.isbw5.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbw6, a.isbw6.clubcolorbw:link, a.isbw6.clubcolorbw:visited, a.isbw6.clubcolorbw:hover, a.isbw6.clubcolorbw:active, .richtarget .clubcolorbw.isbw6, .richtarget a.isbw6.clubcolorbw:link, .richtarget a.isbw6.clubcolorbw:visited, .richtarget a.isbw6.clubcolorbw:hover, .richtarget a.isbw6.clubcolorbw:active { color: #000000 }
+.clubcolorbw.isbw7, a.isbw7.clubcolorbw:link, a.isbw7.clubcolorbw:visited, a.isbw7.clubcolorbw:hover, a.isbw7.clubcolorbw:active, .richtarget .clubcolorbw.isbw7, .richtarget a.isbw7.clubcolorbw:link, .richtarget a.isbw7.clubcolorbw:visited, .richtarget a.isbw7.clubcolorbw:hover, .richtarget a.isbw7.clubcolorbw:active { color: #000000 }
+
+/* BORDER INSET BW */
+.isdark .clubborderinsetbw, .richtarget .isdark .clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isclear .clubborderinsetbw, .richtarget .isclear .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwpage .clubborderinsetbw, .richtarget .isbwpage .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwc1 .clubborderinsetbw, .richtarget .isbwc1 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwc2 .clubborderinsetbw, .richtarget .isbwc2 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw1 .clubborderinsetbw, .richtarget .isbw1 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw2 .clubborderinsetbw, .richtarget .isbw2 .clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isbw3 .clubborderinsetbw, .richtarget .isbw3 .clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isbw4 .clubborderinsetbw, .richtarget .isbw4 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw5 .clubborderinsetbw, .richtarget .isbw5 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw6 .clubborderinsetbw, .richtarget .isbw6 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw7 .clubborderinsetbw, .richtarget .isbw7 .clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+
+.isdark.clubborderinsetbw, .richtarget .isdark.clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isclear.clubborderinsetbw, .richtarget .isclear.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwpage.clubborderinsetbw, .richtarget .isbwpage.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwc1.clubborderinsetbw, .richtarget .isbwc1.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbwc2.clubborderinsetbw, .richtarget .isbwc2.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw1.clubborderinsetbw, .richtarget .isbw1.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw2.clubborderinsetbw, .richtarget .isbw2.clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isbw3.clubborderinsetbw, .richtarget .isbw3.clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.isbw4.clubborderinsetbw, .richtarget .isbw4.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw5.clubborderinsetbw, .richtarget .isbw5.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw6.clubborderinsetbw, .richtarget .isbw6.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.isbw7.clubborderinsetbw, .richtarget .isbw7.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+
+/* BORDER STANDARD BW */
+.isbwc1.clubbordercolorstandard, .richtarget .isbwc1.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbwc2.clubbordercolorstandard, .richtarget .isbwc2.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbw1.clubbordercolorstandard, .richtarget .isbw1.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbw2.clubbordercolorstandard, .richtarget .isbw2.clubbordercolorstandard { border-color: #CCC #CCC #AAA #CCC }
+.isbw3.clubbordercolorstandard, .richtarget .isbw3.clubbordercolorstandard { border-color: #CCC #CCC #AAA #CCC }
+.isbw4.clubbordercolorstandard, .richtarget .isbw4.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbw5.clubbordercolorstandard, .richtarget .isbw5.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbw6.clubbordercolorstandard, .richtarget .isbw6.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+.isbw7.clubbordercolorstandard, .richtarget .isbw7.clubbordercolorstandard { border-color: #AAA #AAA #777 #AAA }
+
+.bwbackgroundcolor{ color : #000000 }
+.bwbackgroundcolor a, .bwbackgroundcolor a:link, .bwbackgroundcolor a:visited, .bwbackgroundcolor a:hover, .bwbackgroundcolor a.bwbackgroundcolor a:active { color : #000000 }
+
+.pagecolor , a.pagecolor:link , a.pagecolor:visited , a.pagecolor:hover , a.pagecolor:active { color: #FFFFFF }
+.bwpagecolor , a.bwpagecolor:link , a.bwpagecolor:visited , a.bwpagecolor:hover , a.bwpagecolor:active { color: #000000 }
+
+.pagecolorc150 , a.pagecolorc150:link , a.pagecolorc150:visited , a.pagecolorc150:hover , a.pagecolorc150:active { color: #404040 }
+
+.pagebordercolor { border-color: #FFFFFF }
+.pageborderinset { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+
+#q_page_bckg { background-color: #66CCFF }
+a { color : #113141 }
+
+/* ADMIN BAR */
+/*
+#qlub_adminbar{background-image: url('../images/adminbar_bckg.png?464D664F-68C0-4739-BFF6-78CC97813F8F'); _background-image: url('../images/adminbar_bckg.gif?464D664F-68C0-4739-BFF6-78CC97813F8F'); background-repeat: repeat-x; background-position : top left ;}
+*/
+
+/* HEADER */
+
+#qlub_headerbanner { height: 226px }
+body.viewmode #qlub_headerbanner { height: 226px }
+#qlub_headerbanner_content { top: 10px }
+#q_borderleft_mask { top: 226px }
+
+#qlub_header_nav { background-image: url( '../images/dotbackground.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ) ; }
+
+#web_headertable_elem{top : 190px ; height: 36px}
+#qlub_quomodolink{top: 226px}
+
+#qlub_headerbanner { background-image:url( '../images/header.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); _background-image:url( '../images/header.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' );background-position: left top; background-repeat: no-repeat; }
+#artema_header, .headerbackground { color: #113141; }
+
+#currservicename { color: rgb(43,43,43) ; font-family: Tahoma, Geneva, sans-serif ;  font-size: 20px ;  }
+#logout_elem { color: #2B2B2B; }
+#quomodo_elem { color: #2B2B2B; }
+#welcome_username { color: black; }
+#qlub_headericon { background-image : url( '/images/blank.gif' ) }
+.tabsmenu { background-color: #f8cda0; color:#002176; }
+
+.tabsbuttonleft, .tabsbuttonright { background-image: url( '../images/tabbutton.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); border: solid 1px #F00}
+div.qlub_tab_marker { background-image: url( '../images/menubarmarker.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); _background-image: url( '../images/menubarmarker.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' ) ; }
+
+/* MENUS */
+
+.qlub_menubarcorner_td { width: 16px ; }
+.qlub_menubarleft { height: 36px ; width: 16px ; background-position: 0 -24px;}
+.qlub_menubarinter { height: 36px ; background-position: -16px -24px; }
+.qlub_menubarright { height: 36px ; width: 16px ; background-position: -986px -24px; }
+.qlub_menubarleft, .qlub_menubarinter, .qlub_menubarright { background-image: url( '../images/menubar.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); _background-image: url( '../images/menubar.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' ); }
+
+#qlub_menubartable{top:160px ; height: 36px}
+
+#qlub_openleftcolbutton { background-image: url('../images/openclose.png?464D664F-68C0-4739-BFF6-78CC97813F8F'); _background-image: url('../images/openclose.gif?464D664F-68C0-4739-BFF6-78CC97813F8F'); width : 23.4375px ; height : 30px; }
+#qlub_openleftcolbutton.open { background-position : 0 0 }
+#qlub_openleftcolbutton.open:hover { background-position : 0 -30px;}
+#qlub_openleftcolbutton.closed { background-position : -23.4375px 0 }
+#qlub_openleftcolbutton.closed:hover { background-position : -23.4375px -30px;}
+
+.qlub_menuicon { height : 30px ; font-size: 13px}
+
+.qlub_tab_td, .qlub_tab_td a { font-weight: bold ; }
+.qlub_tab_td.over, .menupane_ii { background-color: #000000 ; color : #FFFFFF; }
+.qlub_tab_td.over .qlub_tab_title { color: #FFFFFF }
+
+.qlub_tab_menuseparator { height : 30px; border-color: #FFFFFF;}
+.qlub_tab_marker { width: 20px ; height: 9px ; }
+.qlub_tab_title { background-image : none; color: #FFFFFF; height : 30px ; line-height : 30px ; font-size: 13px}
+
+.qlub_menu_content li.over { background-color: #666666 ; color : #FFFFFF; }
+.qlub_menu_content li.over , .qlub_menu_content li.over.new a, .qlub_menu_content li.over[rel="new"] a, .qlub_menu_content li.over > a:first-child { color : #FFFFFF;  }
+* html .qlub_menu_content li.over a { color : #FFFFFF;  }
+
+.qlub_menu_content li, .qlub_menu_content li a { font-size: 13px ; } 
+.qlub_menu_content li[rel="new"] { border-color : #FFFFFF }
+.qlub_menu_content li.new { border-color : #FFFFFF }
+
+.qlub_menu_content li , .qlub_menu_content li[rel="new"] a, .qlub_menu_content li.new a, .qlub_menu_content li > a:first-child { color : #FFFFFF; }
+* html .qlub_menu_content li a { color : #FFFFFF; }
+
+
+
+/* FOOTER */
+
+#footerfooter { height : 13px }
+#footerfooter { background-image: url( '../images/footer.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ) ; _background-image: url( '../images/footer.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' ) ;}
+
+/* C1 / C2 */
+
+.clubcolorc1 , a.clubcolorc1:link , a.clubcolorc1:visited , a.clubcolorc1:hover , a.clubcolorc1:active { color: #66CCFF }
+.clubcolorc2 , a.clubcolorc2:link , a.clubcolorc2:visited , a.clubcolorc2:hover , a.clubcolorc2:active { color: #66CCFF }
+.clubbackgroundcolorc1 { background-color: #66CCFF } 
+.clubbackgroundcolorc2 { background-color: #66CCFF } 
+.clubbordercolorc1 { border-color: #66CCFF }
+.clubbordercolorc2 { border-color: #66CCFF }
+.clubborderinsetc1 { border-color: #297398 #66CCFF #66CCFF #297398 }
+.clubborderinsetc2 { border-color: #297398 #66CCFF #66CCFF #297398 }
+
+/* C1 DECLINEE */
+
+.clubcolor1 , a.clubcolor1:link , a.clubcolor1:visited , a.clubcolor1:hover , a.clubcolor1:active { color: #66CCFF }
+.clubcolorcomp1 , a.clubcolorcomp1:link , a.clubcolorcomp1:visited , a.clubcolorcomp1:hover , a.clubcolorcomp1:active { color: #993300 }
+.clubcolor2 , a.clubcolor2:link , a.clubcolor2:visited , a.clubcolor2:hover , a.clubcolor2:active { color: #113141 }
+.clubcolor3 , a.clubcolor3:link , a.clubcolor3:visited , a.clubcolor3:hover , a.clubcolor3:active { color: #225F7E }
+.clubcolor4 , a.clubcolor4:link , a.clubcolor4:visited , a.clubcolor4:hover , a.clubcolor4:active { color: #3390BE }
+.clubcolor5 , a.clubcolor5:link , a.clubcolor5:visited , a.clubcolor5:hover , a.clubcolor5:active { color: #6DB8DD }
+.clubcolor6 , a.clubcolor6:link , a.clubcolor6:visited , a.clubcolor6:hover , a.clubcolor6:active { color: #B4DAEE }
+.clubcolor7 , a.clubcolor7:link , a.clubcolor7:visited , a.clubcolor7:hover , a.clubcolor7:active { color: #EDF6FB }
+.clubbackgroundcolor1 { background-color: #66CCFF }
+.clubbackgroundcolorcomp1 { background-color: #993300 }
+.clubbackgroundcolor2 { background-color: #113141 }
+.clubbackgroundcolor3 { background-color: #225F7E }
+.clubbackgroundcolor4 { background-color: #3390BE }
+.clubbackgroundcolor5 { background-color: #6DB8DD }
+.clubbackgroundcolor6 { background-color: #B4DAEE }
+.clubbackgroundcolor7 { background-color: #EDF6FB }
+.clubbordercolor1 { border-color: #66CCFF }
+.clubbordercolorcomp1 { border-color: #993300 }
+.clubbordercolor2 { border-color: #113141 }
+.clubbordercolor3 { border-color: #225F7E }
+.clubbordercolor4 { border-color: #3390BE }
+.clubbordercolor5 { border-color: #6DB8DD }
+.clubbordercolor6 { border-color: #B4DAEE }
+.clubbordercolor7 { border-color: #EDF6FB }
+
+.clubborderinset1 { border-color: #297398 #66CCFF #66CCFF #297398 }
+.clubborderinsetcomp1 { border-color: #993300 #D68C67 #D68C67 #993300 }
+.clubborderinset2 { border-color: #113141 #3390BE #3390BE #113141 }
+.clubborderinset3 { border-color: #225F7E #6AB6DC #6AB6DC #225F7E }
+.clubborderinset4 { border-color: #113141 #3390BE #3390BE #113141 }
+.clubborderinset5 { border-color: #236281 #6DB8DD #6DB8DD #236281 }
+.clubborderinset6 { border-color: #338FC0 #B4DAEE #B4DAEE #338FC0 }
+.clubborderinset7 { border-color: #60AED9 #EDF6FB #EDF6FB #60AED9 }
+
+/* C2 DECLINEE */
+
+.clubcolorc21 , a.clubcolorc21:link , a.clubcolorc21:visited , a.clubcolorc21:hover , a.clubcolorc21:active { color: #66CCFF }
+.clubcolorc2comp1 , a.clubcolorc2comp1:link , a.clubcolorc2comp1:visited , a.clubcolorc2comp1:hover , a.clubcolorc2comp1:active { color: #993300 }
+.clubcolorc22 , a.clubcolorc22:link , a.clubcolorc22:visited , a.clubcolorc22:hover , a.clubcolorc22:active { color: #113141 }
+.clubcolorc23 , a.clubcolorc23:link , a.clubcolorc23:visited , a.clubcolorc23:hover , a.clubcolorc23:active { color: #225F7E }
+.clubcolorc24 , a.clubcolorc24:link , a.clubcolorc24:visited , a.clubcolorc24:hover , a.clubcolorc24:active { color: #3390BE }
+.clubcolorc25 , a.clubcolorc25:link , a.clubcolorc25:visited , a.clubcolorc25:hover , a.clubcolorc25:active { color: #6DB8DD }
+.clubcolorc26 , a.clubcolorc26:link , a.clubcolorc26:visited , a.clubcolorc26:hover , a.clubcolorc26:active { color: #B4DAEE }
+.clubcolorc27 , a.clubcolorc27:link , a.clubcolorc27:visited , a.clubcolorc27:hover , a.clubcolorc27:active { color: #EDF6FB }
+.clubbackgroundcolorc21 { background-color: #66CCFF }
+.clubbackgroundcolorc2comp1 { background-color: #993300 }
+.clubbackgroundcolorc22 { background-color: #113141 }
+.clubbackgroundcolorc23 { background-color: #225F7E }
+.clubbackgroundcolorc24 { background-color: #3390BE }
+.clubbackgroundcolorc25 { background-color: #6DB8DD }
+.clubbackgroundcolorc26 { background-color: #B4DAEE }
+.clubbackgroundcolorc27 { background-color: #EDF6FB }
+.clubbordercolorc21 { border-color: #66CCFF }
+.clubbordercolorc2comp1 { border-color: #993300 }
+.clubbordercolorc22 { border-color: #113141 }
+.clubbordercolorc23 { border-color: #225F7E }
+.clubbordercolorc24 { border-color: #3390BE }
+.clubbordercolorc25 { border-color: #6DB8DD }
+.clubbordercolorc26 { border-color: #B4DAEE }
+.clubbordercolorc27 { border-color: #EDF6FB }
+
+.clubborderinsetc21 { border-color: #297398 #66CCFF #66CCFF #297398 }
+.clubborderinsetc2comp1 { border-color: #993300 #D68C67 #D68C67 #993300 }
+.clubborderinsetc22 { border-color: #113141 #3390BE #3390BE #113141 }
+.clubborderinsetc23 { border-color: #225F7E #6AB6DC #6AB6DC #225F7E }
+.clubborderinsetc24 { border-color: #113141 #3390BE #3390BE #113141 }
+.clubborderinsetc25 { border-color: #236281 #6DB8DD #6DB8DD #236281 }
+.clubborderinsetc26 { border-color: #338FC0 #B4DAEE #B4DAEE #338FC0 }
+.clubborderinsetc27 { border-color: #60AED9 #EDF6FB #EDF6FB #60AED9 }
+
+/* C1 / C2 CONTRAST 150 */
+
+.clubcolorc150c1 , a.clubcolorc150c1:link , a.clubcolorc150c1:visited , a.clubcolorc150c1:hover , a.clubcolorc150c1:active { color: #000000 }
+.clubcolorc150c2 , a.clubcolorc150c2:link , a.clubcolorc150c2:visited , a.clubcolorc150c2:hover , a.clubcolorc150c2:active { color: #000000 }
+.clubbackgroundcolorc150c1 { background-color: #000000 } 
+.clubbackgroundcolorc150c2 { background-color: #000000 } 
+.clubbordercolorc150c1 { border-color: #000000 }
+.clubbordercolorc150c2 { border-color: #000000 }
+
+.clubcolorc1501 , a.clubcolorc1501:link , a.clubcolorc1501:visited , a.clubcolorc1501:hover , a.clubcolorc1501:active { color: #000000 }
+.clubcolorc150comp1 , a.clubcolorc150comp1:link , a.clubcolorc150comp1:visited , a.clubcolorc150comp1:hover , a.clubcolorc150comp1:active { color: #FFFFFF }
+.clubcolorc1502 , a.clubcolorc1502:link , a.clubcolorc1502:visited , a.clubcolorc1502:hover , a.clubcolorc1502:active { color: #DCEEF7 }
+.clubcolorc1503 , a.clubcolorc1503:link , a.clubcolorc1503:visited , a.clubcolorc1503:hover , a.clubcolorc1503:active { color: #FFFFFF }
+.clubcolorc1504 , a.clubcolorc1504:link , a.clubcolorc1504:visited , a.clubcolorc1504:hover , a.clubcolorc1504:active { color: #000000 }
+.clubcolorc1505 , a.clubcolorc1505:link , a.clubcolorc1505:visited , a.clubcolorc1505:hover , a.clubcolorc1505:active { color: #000000 }
+.clubcolorc1506 , a.clubcolorc1506:link , a.clubcolorc1506:visited , a.clubcolorc1506:hover , a.clubcolorc1506:active { color: #08171E }
+.clubcolorc1507 , a.clubcolorc1507:link , a.clubcolorc1507:visited , a.clubcolorc1507:hover , a.clubcolorc1507:active { color: #153C51 }
+.clubbackgroundcolorc1501 { background-color: #000000 }
+.clubbackgroundcolorc150comp1 { background-color: #FFFFFF }
+.clubbackgroundcolorc1502 { background-color: #DCEEF7 }
+.clubbackgroundcolorc1503 { background-color: #FFFFFF }
+.clubbackgroundcolorc1504 { background-color: #000000 }
+.clubbackgroundcolorc1505 { background-color: #000000 }
+.clubbackgroundcolorc1506 { background-color: #08171E }
+.clubbackgroundcolorc1507 { background-color: #153C51 }
+.clubbordercolorc1501 { border-color: #000000 }
+.clubbordercolorc150comp1 { border-color: #FFFFFF }
+.clubbordercolorc1502 { border-color: #DCEEF7 }
+.clubbordercolorc1503 { border-color: #FFFFFF }
+.clubbordercolorc1504 { border-color: #000000 }
+.clubbordercolorc1505 { border-color: #000000 }
+.clubbordercolorc1506 { border-color: #08171E }
+.clubbordercolorc1507 { border-color: #153C51 }
+
+/* C1 / C2 CONTRAST 9 */
+
+.clubcolorc9c1 , a.clubcolorc9c1:link , a.clubcolorc9c1:visited , a.clubcolorc9c1:hover , a.clubcolorc9c1:active { color: #61C2F2 }
+.clubcolorc9c2 , a.clubcolorc9c2:link , a.clubcolorc9c2:visited , a.clubcolorc9c2:hover , a.clubcolorc9c2:active { color: #61C2F2 }
+.clubbackgroundcolorc9c1 { background-color: #61C2F2 } 
+.clubbackgroundcolorc9c2 { background-color: #61C2F2 } 
+.clubbordercolorc9c1 { border-color: #61C2F2 }
+.clubbordercolorc9c2 { border-color: #61C2F2 }
+
+.clubcolorc91 , a.clubcolorc91:link , a.clubcolorc91:visited , a.clubcolorc91:hover , a.clubcolorc91:active { color: #61C2F2 }
+.clubcolorc9comp1 , a.clubcolorc9comp1:link , a.clubcolorc9comp1:visited , a.clubcolorc9comp1:hover , a.clubcolorc9comp1:active { color: #8C2F00 }
+.clubcolorc92 , a.clubcolorc92:link , a.clubcolorc92:visited , a.clubcolorc92:hover , a.clubcolorc92:active { color: #143B4E }
+.clubcolorc93 , a.clubcolorc93:link , a.clubcolorc93:visited , a.clubcolorc93:hover , a.clubcolorc93:active { color: #25698B }
+.clubcolorc94 , a.clubcolorc94:link , a.clubcolorc94:visited , a.clubcolorc94:hover , a.clubcolorc94:active { color: #3086B1 }
+.clubcolorc95 , a.clubcolorc95:link , a.clubcolorc95:visited , a.clubcolorc95:hover , a.clubcolorc95:active { color: #67ADD0 }
+.clubcolorc96 , a.clubcolorc96:link , a.clubcolorc96:visited , a.clubcolorc96:hover , a.clubcolorc96:active { color: #AACEE1 }
+.clubcolorc97 , a.clubcolorc97:link , a.clubcolorc97:visited , a.clubcolorc97:hover , a.clubcolorc97:active { color: #E1E9EE }
+.clubbackgroundcolorc91 { background-color: #61C2F2 }
+.clubbackgroundcolorc9comp1 { background-color: #8C2F00 }
+.clubbackgroundcolorc92 { background-color: #143B4E }
+.clubbackgroundcolorc93 { background-color: #25698B }
+.clubbackgroundcolorc94 { background-color: #3086B1 }
+.clubbackgroundcolorc95 { background-color: #67ADD0 }
+.clubbackgroundcolorc96 { background-color: #AACEE1 }
+.clubbackgroundcolorc97 { background-color: #E1E9EE }
+.clubbordercolorc91 { border-color: #61C2F2 }
+.clubbordercolorc9comp1 { border-color: #8C2F00 }
+.clubbordercolorc92 { border-color: #143B4E }
+.clubbordercolorc93 { border-color: #25698B }
+.clubbordercolorc94 { border-color: #3086B1 }
+.clubbordercolorc95 { border-color: #67ADD0 }
+.clubbordercolorc96 { border-color: #AACEE1 }
+.clubbordercolorc97 { border-color: #E1E9EE }
+
+/* C1 / C2 CONTRAST 13 */
+
+.clubcolorc13c1 , a.clubcolorc13c1:link , a.clubcolorc13c1:visited , a.clubcolorc13c1:hover , a.clubcolorc13c1:active { color: #59B1DE }
+.clubcolorc13c2 , a.clubcolorc13c2:link , a.clubcolorc13c2:visited , a.clubcolorc13c2:hover , a.clubcolorc13c2:active { color: #59B1DE }
+.clubbackgroundcolorc13c1 { background-color: #59B1DE } 
+.clubbackgroundcolorc13c2 { background-color: #59B1DE } 
+.clubbordercolorc13c1 { border-color: #59B1DE }
+.clubbordercolorc13c2 { border-color: #59B1DE }
+
+.clubcolorc131 , a.clubcolorc131:link , a.clubcolorc131:visited , a.clubcolorc131:hover , a.clubcolorc131:active { color: #59B1DE }
+.clubcolorc13comp1 , a.clubcolorc13comp1:link , a.clubcolorc13comp1:visited , a.clubcolorc13comp1:hover , a.clubcolorc13comp1:active { color: #782800 }
+.clubcolorc132 , a.clubcolorc132:link , a.clubcolorc132:visited , a.clubcolorc132:hover , a.clubcolorc132:active { color: #1A4A62 }
+.clubcolorc133 , a.clubcolorc133:link , a.clubcolorc133:visited , a.clubcolorc133:hover , a.clubcolorc133:active { color: #2B789F }
+.clubcolorc134 , a.clubcolorc134:link , a.clubcolorc134:visited , a.clubcolorc134:hover , a.clubcolorc134:active { color: #2A779D }
+.clubcolorc135 , a.clubcolorc135:link , a.clubcolorc135:visited , a.clubcolorc135:hover , a.clubcolorc135:active { color: #5D9CBC }
+.clubcolorc136 , a.clubcolorc136:link , a.clubcolorc136:visited , a.clubcolorc136:hover , a.clubcolorc136:active { color: #9BBCCD }
+.clubcolorc137 , a.clubcolorc137:link , a.clubcolorc137:visited , a.clubcolorc137:hover , a.clubcolorc137:active { color: #CED5DA }
+.clubbackgroundcolorc131 { background-color: #59B1DE }
+.clubbackgroundcolorc13comp1 { background-color: #782800 }
+.clubbackgroundcolorc132 { background-color: #1A4A62 }
+.clubbackgroundcolorc133 { background-color: #2B789F }
+.clubbackgroundcolorc134 { background-color: #2A779D }
+.clubbackgroundcolorc135 { background-color: #5D9CBC }
+.clubbackgroundcolorc136 { background-color: #9BBCCD }
+.clubbackgroundcolorc137 { background-color: #CED5DA }
+.clubbordercolorc131 { border-color: #59B1DE }
+.clubbordercolorc13comp1 { border-color: #782800 }
+.clubbordercolorc132 { border-color: #1A4A62 }
+.clubbordercolorc133 { border-color: #2B789F }
+.clubbordercolorc134 { border-color: #2A779D }
+.clubbordercolorc135 { border-color: #5D9CBC }
+.clubbordercolorc136 { border-color: #9BBCCD }
+.clubbordercolorc137 { border-color: #CED5DA }
+
+/* C1 / C2 CONTRAST 19 */
+
+.clubcolorc19c1 , a.clubcolorc19c1:link , a.clubcolorc19c1:visited , a.clubcolorc19c1:hover , a.clubcolorc19c1:active { color: #53A5CE }
+.clubcolorc19c2 , a.clubcolorc19c2:link , a.clubcolorc19c2:visited , a.clubcolorc19c2:hover , a.clubcolorc19c2:active { color: #53A5CE }
+.clubbackgroundcolorc19c1 { background-color: #53A5CE } 
+.clubbackgroundcolorc19c2 { background-color: #53A5CE } 
+.clubbordercolorc19c1 { border-color: #53A5CE }
+.clubbordercolorc19c2 { border-color: #53A5CE }
+
+.clubcolorc191 , a.clubcolorc191:link , a.clubcolorc191:visited , a.clubcolorc191:hover , a.clubcolorc191:active { color: #53A5CE }
+.clubcolorc19comp1 , a.clubcolorc19comp1:link , a.clubcolorc19comp1:visited , a.clubcolorc19comp1:hover , a.clubcolorc19comp1:active { color: #682300 }
+.clubcolorc192 , a.clubcolorc192:link , a.clubcolorc192:visited , a.clubcolorc192:hover , a.clubcolorc192:active { color: #1E5571 }
+.clubcolorc193 , a.clubcolorc193:link , a.clubcolorc193:visited , a.clubcolorc193:hover , a.clubcolorc193:active { color: #2F83AE }
+.clubcolorc194 , a.clubcolorc194:link , a.clubcolorc194:visited , a.clubcolorc194:hover , a.clubcolorc194:active { color: #266B8D }
+.clubcolorc195 , a.clubcolorc195:link , a.clubcolorc195:visited , a.clubcolorc195:hover , a.clubcolorc195:active { color: #5590AC }
+.clubcolorc196 , a.clubcolorc196:link , a.clubcolorc196:visited , a.clubcolorc196:hover , a.clubcolorc196:active { color: #8FAEBD }
+.clubcolorc197 , a.clubcolorc197:link , a.clubcolorc197:visited , a.clubcolorc197:hover , a.clubcolorc197:active { color: #BFC6CA }
+.clubbackgroundcolorc191 { background-color: #53A5CE }
+.clubbackgroundcolorc19comp1 { background-color: #682300 }
+.clubbackgroundcolorc192 { background-color: #1E5571 }
+.clubbackgroundcolorc193 { background-color: #2F83AE }
+.clubbackgroundcolorc194 { background-color: #266B8D }
+.clubbackgroundcolorc195 { background-color: #5590AC }
+.clubbackgroundcolorc196 { background-color: #8FAEBD }
+.clubbackgroundcolorc197 { background-color: #BFC6CA }
+.clubbordercolorc191 { border-color: #53A5CE }
+.clubbordercolorc19comp1 { border-color: #682300 }
+.clubbordercolorc192 { border-color: #1E5571 }
+.clubbordercolorc193 { border-color: #2F83AE }
+.clubbordercolorc194 { border-color: #266B8D }
+.clubbordercolorc195 { border-color: #5590AC }
+.clubbordercolorc196 { border-color: #8FAEBD }
+.clubbordercolorc197 { border-color: #BFC6CA }
+
+/* C1 / C2 CONTRAST 27 */
+
+.clubcolorc27c1 , a.clubcolorc27c1:link , a.clubcolorc27c1:visited , a.clubcolorc27c1:hover , a.clubcolorc27c1:active { color: #4A95BA }
+.clubcolorc27c2 , a.clubcolorc27c2:link , a.clubcolorc27c2:visited , a.clubcolorc27c2:hover , a.clubcolorc27c2:active { color: #4A95BA }
+.clubbackgroundcolorc27c1 { background-color: #4A95BA } 
+.clubbackgroundcolorc27c2 { background-color: #4A95BA } 
+.clubbordercolorc27c1 { border-color: #4A95BA }
+.clubbordercolorc27c2 { border-color: #4A95BA }
+
+.clubcolorc271 , a.clubcolorc271:link , a.clubcolorc271:visited , a.clubcolorc271:hover , a.clubcolorc271:active { color: #4A95BA }
+.clubcolorc27comp1 , a.clubcolorc27comp1:link , a.clubcolorc27comp1:visited , a.clubcolorc27comp1:hover , a.clubcolorc27comp1:active { color: #541C00 }
+.clubcolorc272 , a.clubcolorc272:link , a.clubcolorc272:visited , a.clubcolorc272:hover , a.clubcolorc272:active { color: #236586 }
+.clubcolorc273 , a.clubcolorc273:link , a.clubcolorc273:visited , a.clubcolorc273:hover , a.clubcolorc273:active { color: #3593C3 }
+.clubcolorc274 , a.clubcolorc274:link , a.clubcolorc274:visited , a.clubcolorc274:hover , a.clubcolorc274:active { color: #215C79 }
+.clubcolorc275 , a.clubcolorc275:link , a.clubcolorc275:visited , a.clubcolorc275:hover , a.clubcolorc275:active { color: #4B7F98 }
+.clubcolorc276 , a.clubcolorc276:link , a.clubcolorc276:visited , a.clubcolorc276:hover , a.clubcolorc276:active { color: #809BA9 }
+.clubcolorc277 , a.clubcolorc277:link , a.clubcolorc277:visited , a.clubcolorc277:hover , a.clubcolorc277:active { color: #ACB2B6 }
+.clubbackgroundcolorc271 { background-color: #4A95BA }
+.clubbackgroundcolorc27comp1 { background-color: #541C00 }
+.clubbackgroundcolorc272 { background-color: #236586 }
+.clubbackgroundcolorc273 { background-color: #3593C3 }
+.clubbackgroundcolorc274 { background-color: #215C79 }
+.clubbackgroundcolorc275 { background-color: #4B7F98 }
+.clubbackgroundcolorc276 { background-color: #809BA9 }
+.clubbackgroundcolorc277 { background-color: #ACB2B6 }
+.clubbordercolorc271 { border-color: #4A95BA }
+.clubbordercolorc27comp1 { border-color: #541C00 }
+.clubbordercolorc272 { border-color: #236586 }
+.clubbordercolorc273 { border-color: #3593C3 }
+.clubbordercolorc274 { border-color: #215C79 }
+.clubbordercolorc275 { border-color: #4B7F98 }
+.clubbordercolorc276 { border-color: #809BA9 }
+.clubbordercolorc277 { border-color: #ACB2B6 }
+
+/* C1 / C2 CONTRAST 40 */
+
+.clubcolorc40c1 , a.clubcolorc40c1:link , a.clubcolorc40c1:visited , a.clubcolorc40c1:hover , a.clubcolorc40c1:active { color: #3D7A99 }
+.clubcolorc40c2 , a.clubcolorc40c2:link , a.clubcolorc40c2:visited , a.clubcolorc40c2:hover , a.clubcolorc40c2:active { color: #3D7A99 }
+.clubbackgroundcolorc40c1 { background-color: #3D7A99 } 
+.clubbackgroundcolorc40c2 { background-color: #3D7A99 } 
+.clubbordercolorc40c1 { border-color: #3D7A99 }
+.clubbordercolorc40c2 { border-color: #3D7A99 }
+
+.clubcolorc401 , a.clubcolorc401:link , a.clubcolorc401:visited , a.clubcolorc401:hover , a.clubcolorc401:active { color: #3D7A99 }
+.clubcolorc40comp1 , a.clubcolorc40comp1:link , a.clubcolorc40comp1:visited , a.clubcolorc40comp1:hover , a.clubcolorc40comp1:active { color: #331100 }
+.clubcolorc402 , a.clubcolorc402:link , a.clubcolorc402:visited , a.clubcolorc402:hover , a.clubcolorc402:active { color: #2C7EA7 }
+.clubcolorc403 , a.clubcolorc403:link , a.clubcolorc403:visited , a.clubcolorc403:hover , a.clubcolorc403:active { color: #3DACE4 }
+.clubcolorc404 , a.clubcolorc404:link , a.clubcolorc404:visited , a.clubcolorc404:hover , a.clubcolorc404:active { color: #184358 }
+.clubcolorc405 , a.clubcolorc405:link , a.clubcolorc405:visited , a.clubcolorc405:hover , a.clubcolorc405:active { color: #3B6377 }
+.clubcolorc406 , a.clubcolorc406:link , a.clubcolorc406:visited , a.clubcolorc406:hover , a.clubcolorc406:active { color: #677D88 }
+.clubcolorc407 , a.clubcolorc407:link , a.clubcolorc407:visited , a.clubcolorc407:hover , a.clubcolorc407:active { color: #8D9295 }
+.clubbackgroundcolorc401 { background-color: #3D7A99 }
+.clubbackgroundcolorc40comp1 { background-color: #331100 }
+.clubbackgroundcolorc402 { background-color: #2C7EA7 }
+.clubbackgroundcolorc403 { background-color: #3DACE4 }
+.clubbackgroundcolorc404 { background-color: #184358 }
+.clubbackgroundcolorc405 { background-color: #3B6377 }
+.clubbackgroundcolorc406 { background-color: #677D88 }
+.clubbackgroundcolorc407 { background-color: #8D9295 }
+.clubbordercolorc401 { border-color: #3D7A99 }
+.clubbordercolorc40comp1 { border-color: #331100 }
+.clubbordercolorc402 { border-color: #2C7EA7 }
+.clubbordercolorc403 { border-color: #3DACE4 }
+.clubbordercolorc404 { border-color: #184358 }
+.clubbordercolorc405 { border-color: #3B6377 }
+.clubbordercolorc406 { border-color: #677D88 }
+.clubbordercolorc407 { border-color: #8D9295 }
+
+/* C1 / C2 CONTRAST B&W */
+
+.clubcolorbwc1 , a.clubcolorbwc1:link , a.clubcolorbwc1:visited , a.clubcolorbwc1:hover , a.clubcolorbwc1:active { color: #000000 }
+.clubcolorbwc2 , a.clubcolorbwc2:link , a.clubcolorbwc2:visited , a.clubcolorbwc2:hover , a.clubcolorbwc2:active { color: #000000 }
+.clubbackgroundcolorbwc1 { background-color: #000000 } 
+.clubbackgroundcolorbwc2 { background-color: #000000 } 
+.clubbordercolorbwc1 { border-color: #000000 }
+.clubbordercolorbwc2 { border-color: #000000 }
+
+.clubborderinsetbwc1 { border-color: #000000 #545454 #545454 #000000 }
+.clubborderinsetbwc2 { border-color: #000000 #545454 #545454 #000000 }
+
+.clubcolorbw1 , a.clubcolorbw1:link , a.clubcolorbw1:visited , a.clubcolorbw1:hover , a.clubcolorbw1:active { color: #000000 }
+.clubcolorbwcomp1 , a.clubcolorbwcomp1:link , a.clubcolorbwcomp1:visited , a.clubcolorbwcomp1:hover , a.clubcolorbwcomp1:active { color: #FFFFFF }
+.clubcolorbw2 , a.clubcolorbw2:link , a.clubcolorbw2:visited , a.clubcolorbw2:hover , a.clubcolorbw2:active { color: #FFFFFF }
+.clubcolorbw3 , a.clubcolorbw3:link , a.clubcolorbw3:visited , a.clubcolorbw3:hover , a.clubcolorbw3:active { color: #FFFFFF }
+.clubcolorbw4 , a.clubcolorbw4:link , a.clubcolorbw4:visited , a.clubcolorbw4:hover , a.clubcolorbw4:active { color: #000000 }
+.clubcolorbw5 , a.clubcolorbw5:link , a.clubcolorbw5:visited , a.clubcolorbw5:hover , a.clubcolorbw5:active { color: #000000 }
+.clubcolorbw6 , a.clubcolorbw6:link , a.clubcolorbw6:visited , a.clubcolorbw6:hover , a.clubcolorbw6:active { color: #000000 }
+.clubcolorbw7 , a.clubcolorbw7:link , a.clubcolorbw7:visited , a.clubcolorbw7:hover , a.clubcolorbw7:active { color: #000000 }
+
+
+.clubbackgroundcolorbw1 { background-color: #000000 }
+.clubbackgroundcolorbwcomp1 { background-color: #FFFFFF }
+.clubbackgroundcolorbw2 { background-color: #FFFFFF }
+.clubbackgroundcolorbw3 { background-color: #FFFFFF }
+.clubbackgroundcolorbw4 { background-color: #000000 }
+.clubbackgroundcolorbw5 { background-color: #000000 }
+.clubbackgroundcolorbw6 { background-color: #000000 }
+.clubbackgroundcolorbw7 { background-color: #000000 }
+
+.clubbordercolorbw1 { border-color: #000000 }
+.clubbordercolorbwcomp1 { border-color: #FFFFFF }
+.clubbordercolorbw2 { border-color: #FFFFFF }
+.clubbordercolorbw3 { border-color: #FFFFFF }
+.clubbordercolorbw4 { border-color: #000000 }
+.clubbordercolorbw5 { border-color: #000000 }
+.clubbordercolorbw6 { border-color: #000000 }
+.clubbordercolorbw7 { border-color: #000000 }
+
+.clubborderinsetbw1 { border-color: #000000 #545454 #545454 #000000 }
+.clubborderinsetbwcomp1 { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.clubborderinsetbw2 { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.clubborderinsetbw3 { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.clubborderinsetbw4 { border-color: #000000 #545454 #545454 #000000 }
+.clubborderinsetbw5 { border-color: #000000 #545454 #545454 #000000 }
+.clubborderinsetbw6 { border-color: #000000 #545454 #545454 #000000 }
+.clubborderinsetbw7 { border-color: #000000 #545454 #545454 #000000 }
+
+.pagetextcolor , a.pagetextcolor:link , a.pagetextcolor:visited , a.pagetextcolor:hover , a.pagetextcolor:active { color: #2B2B2B; }
+.pagetextcolorc150 , a.pagetextcolorc150:link , a.pagetextcolorc150:visited , a.pagetextcolorc150:hover , a.pagetextcolorc150:active { color: #404040; }
+.bwpagetextcolor , a.bwpagetextcolor:link , a.bwpagetextcolor:visited , a.bwpagetextcolor:hover , a.bwpagetextcolor:active { color: #000000; }
+.pagetextcolorc9 , a.pagetextcolorc9:link , a.pagetextcolorc9:visited , a.pagetextcolorc9:hover , a.pagetextcolorc9:active { color: #F2F2F2 }
+.pagetextcolorc13 , a.pagetextcolorc13:link , a.pagetextcolorc13:visited , a.pagetextcolorc13:hover , a.pagetextcolorc13:active { color: #DEDEDE }
+.pagetextcolorc19 , a.pagetextcolorc19:link , a.pagetextcolorc19:visited , a.pagetextcolorc19:hover , a.pagetextcolorc19:active { color: #CECECE }
+.pagetextcolorc27 , a.pagetextcolorc27:link , a.pagetextcolorc27:visited , a.pagetextcolorc27:hover , a.pagetextcolorc27:active { color: #BABABA }
+.pagetextcolorc40 , a.pagetextcolorc40:link , a.pagetextcolorc40:visited , a.pagetextcolorc40:hover , a.pagetextcolorc40:active { color: #999999 }
+
+/* LEFTCOL */
+/*
+#q_drawerleftcoltop, #q_drawerleftcolinter, #q_drawerleftcolbottom { background-image : url( '../images/leftcoldrawer.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ); _background-image : url( '../images/leftcoldrawer.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' ) }
+#q_drawerleftcoltitle { color: #D4D4D4 }
+
+.leftcoltab_title, .leftcoltab_title_closed, .leftcoltab_title_open, .leftcoltab_title_mouseover { background-image: url( '../images/leftcoltabs.png?464D664F-68C0-4739-BFF6-78CC97813F8F') ; _background-image: url( '../images/leftcoltabs.gif?464D664F-68C0-4739-BFF6-78CC97813F8F' ); color: #333; }
+
+.leftcoltab_content{ border-color: #D4D4D4; background-color: #545454; }
+.qlubleftcolpublishbutton , .qlubleftcolmep, .qlubleftcolothers { color: #2B2B2B; }
+
+#q_leftcol table.leftcolcolortable div { border-color : #AAA }
+#q_leftcol a { color: #EEE }
+#q_leftcol a.button:link, #q_leftcol a.button:visited, #q_leftcol a.button:active { color: #EEE ; background-color: #000000 ; border-color: #EEE }
+#q_leftcol a.button:hover { color: #000000 ; background-color: #EEE ; border-color: #EEE }
+#q_leftcol .off img { background-image: url('/images/circle6in9white.png' ) ; _background-image: url('/images/circle6in9white.gif' ) ; }
+#q_leftcol .on img { background-image: url('/images/ccircle6in9white.png' ) ; _background-image: url('/images/ccircle6in9white.gif' ) ;  }
+
+.leftcoltitle, .square { color: #D4D4D4 }
+.leftcoltext { color: #EEE }
+.leftcolrightarrow { margin: 12px 0 10px 40px; color: #D4D4D4; }
+.qlub_leftcoltooltip { color: #ABABAB }
+*/
+
+.qlubsnicon { color: #D4D4D4 }
+
+.artema_leftdrawer { border-color: #545454 }
+
+/* OTHERS */
+
+.qlub_login_button_off, .qlub_login_button_on { background-image: url( '../images/headerloginbutton.png?464D664F-68C0-4739-BFF6-78CC97813F8F' ) }
+
+/* NOTEPAD  */
+
+.notepadlink a { color : black; } 
+.notepadnotetext { color : #2B2B2B; }
+
+
+.style_qsn .clubbackgroundcolor-header-color, .richtarget .style_qsn .clubbackgroundcolor-header-color { background-color: #66CCFF }
+
+.style_qsn .clubcolor-header-color-bw, .richtarget .style_qsn .clubcolor-header-color-bw { color: #000000 }
+.style_qsn .clubcolor-header-color-c150, .richtarget .style_qsn .clubcolor-header-color-c150 { color: #000000 }
+.style_qsn .clubcolor-header-color-c9, .richtarget .style_qsn .clubcolor-header-color-c9 { color: #61C2F2 }
+.style_qsn .clubcolor-header-color-c13, .richtarget .style_qsn .clubcolor-header-color-c13 { color: #59B1DE }
+.style_qsn .clubcolor-header-color-c19, .richtarget .style_qsn .clubcolor-header-color-c19 { color: #53A5CE }
+.style_qsn .clubcolor-header-color-c27, .richtarget .style_qsn .clubcolor-header-color-c27 { color: #4A95BA }
+.style_qsn .clubcolor-header-color-c40, .richtarget .style_qsn .clubcolor-header-color-c40 { color: #3D7A99 }
+
+.style_qsn.isdark .clubcolor-header-textcolor, .richtarget .style_qsn.isdark .clubcolor-header-textcolor { color: #FFF }
+.style_qsn.isclear .clubcolor-header-textcolor, .richtarget .style_qsn.isclear .clubcolor-header-textcolor { color: #000 }
+.style_qsn.isbwpage .clubcolor-header-textcolor, .richtarget .style_qsn.isbwpage .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbwc1 .clubcolor-header-textcolor, .richtarget .style_qsn.isbwc1 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbwc2 .clubcolor-header-textcolor, .richtarget .style_qsn.isbwc2 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbw1 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw1 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbw2 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw2 .clubcolor-header-textcolor { color: #FFFFFF }
+.style_qsn.isbw3 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw3 .clubcolor-header-textcolor { color: #FFFFFF }
+.style_qsn.isbw4 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw4 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbw5 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw5 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbw6 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw6 .clubcolor-header-textcolor { color: #000000 }
+.style_qsn.isbw7 .clubcolor-header-textcolor, .richtarget .style_qsn.isbw7 .clubcolor-header-textcolor { color: #000000 }
+
+.style_qsn .isdark.clubcolor-header-textcolor, .richtarget .style_qsn .isdark.clubcolor-header-textcolor { color: #FFF }
+.style_qsn .isclear.clubcolor-header-textcolor, .richtarget .style_qsn .isclear.clubcolor-header-textcolor { color: #000 }
+.style_qsn .isbwpage.clubcolor-header-textcolor, .richtarget .style_qsn .isbwpage.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbwc1.clubcolor-header-textcolor, .richtarget .style_qsn .isbwc1.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbwc2.clubcolor-header-textcolor, .richtarget .style_qsn .isbwc2.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbw1.clubcolor-header-textcolor, .richtarget .style_qsn .isbw1.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbw2.clubcolor-header-textcolor, .richtarget .style_qsn .isbw2.clubcolor-header-textcolor { color: #FFFFFF }
+.style_qsn .isbw3.clubcolor-header-textcolor, .richtarget .style_qsn .isbw3.clubcolor-header-textcolor { color: #FFFFFF }
+.style_qsn .isbw4.clubcolor-header-textcolor, .richtarget .style_qsn .isbw4.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbw5.clubcolor-header-textcolor, .richtarget .style_qsn .isbw5.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbw6.clubcolor-header-textcolor, .richtarget .style_qsn .isbw6.clubcolor-header-textcolor { color: #000000 }
+.style_qsn .isbw7.clubcolor-header-textcolor, .richtarget .style_qsn .isbw7.clubcolor-header-textcolor { color: #000000 }
+
+.style_qsn.isdark .clubborderinset-header-textcolor, .richtarget .style_qsn.isdark .clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn.isclear .clubborderinset-header-textcolor, .richtarget .style_qsn.isclear .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbwpage .clubborderinset-header-textcolor, .richtarget .style_qsn.isbwpage .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbwc1 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbwc1 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbwc2 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbwc2 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbw1 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw1 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbw2 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw2 .clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn.isbw3 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw3 .clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn.isbw4 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw4 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbw5 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw5 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbw6 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw6 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn.isbw7 .clubborderinset-header-textcolor, .richtarget .style_qsn.isbw7 .clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+
+.style_qsn .isdark.clubborderinset-header-textcolor, .richtarget .style_qsn .isdark.clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn .isclear.clubborderinset-header-textcolor, .richtarget .style_qsn .isclear.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbwpage.clubborderinset-header-textcolor, .richtarget .style_qsn .isbwpage.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbwc1.clubborderinset-header-textcolor, .richtarget .style_qsn .isbwc1.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbwc2.clubborderinset-header-textcolor, .richtarget .style_qsn .isbwc2.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbw1.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw1.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbw2.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw2.clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn .isbw3.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw3.clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+.style_qsn .isbw4.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw4.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbw5.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw5.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbw6.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw6.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbw7.clubborderinset-header-textcolor, .richtarget .style_qsn .isbw7.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+
+.style_qsn .isbwqsnstyle-header-color.clubcolorbw, .richtarget .style_qsn .isbwqsnstyle-header-color.clubcolorbw { color: #000000 }
+.style_qsn .isbwqsnstyle-header-color.clubcolor-header-textcolor, .richtarget .style_qsn .isbwqsnstyle-header-color.clubcolor-header-textcolor { color: #000000 }
+
+.style_qsn .isbwqsnstyle-header-color.clubborderinsetbw, .richtarget .style_qsn .isbwqsnstyle-header-color.clubborderinsetbw { border-color: #000000 #545454 #545454 #000000 }
+.style_qsn .isbwqsnstyle-header-color.clubborderinset-header-textcolor, .richtarget .style_qsn .isbwqsnstyle-header-color.clubborderinset-header-textcolor { border-color: #000000 #545454 #545454 #000000 }
+
+
+
+/* SN_STYLE s0 */
+		
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { line-height: 26px; font-size: 16px }
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { line-height: 26px; font-size: 16px }
+	
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { font-family: Arial, Helvetica, sans-serif }
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { font-family: Arial, Helvetica, sans-serif }
+.style_s0 .clubfontfamily-header-font, .richtarget .style_s0 .clubfontfamily-header-font { font-family: Arial, Helvetica, sans-serif }
+		
+.style_s0 .qlubcontainer_headermeasure.headerfont--, .richtarget .style_s0 .qlubcontainer_headermeasure.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+.style_s0 .qlubcontainer_headertext.headerfont--, .richtarget .style_s0 .qlubcontainer_headertext.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+.style_s0 .clubfontfamily-header-font.headerfont--, .richtarget .style_s0 .clubfontfamily-header-font.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+	
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { font-weight: bold }
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { font-weight: bold }
+	
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { font-style: italic }
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { font-style: italic }
+	
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { font-variant: normal ; text-transform: none }
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { font-variant: normal ; text-transform: none }
+	
+.style_s0 .qlubcontainer_headermeasure, .richtarget .style_s0 .qlubcontainer_headermeasure { text-align: center }
+.style_s0 .qlubcontainer_headertext, .richtarget .style_s0 .qlubcontainer_headertext { text-align: center }
+.style_s0 .withicon .qsnalign.qlubcontainer_headerbckg, .richtarget .style_s0 .withicon .qsnalign.qlubcontainer_headerbckg { padding-right: 46px }
+.style_s0 .qlubcontainer_noteheader h3, .richtarget .style_s0 .qlubcontainer_noteheader h3 { padding-top: 0px ; padding-bottom: 0px }
+.style_s0 h3.qlubcontainer_headertext, .richtarget .style_s0 h3.qlubcontainer_headertext { padding-top: 0px ; padding-bottom: 0px } /* compatibilité anciennes notes */
+.style_s0 .qlubcontainer_noteheader .header-padding, .richtarget .style_s0 .qlubcontainer_noteheader .header-padding { width: 0px }
+	
+.style_s0 .clubbackgroundcolor-header-color, .richtarget .style_s0 .clubbackgroundcolor-header-color { background-color: #000 }
+.style_s0 .clubcolor-header-color, .richtarget .style_s0 .clubcolor-header-color { color: #000 }
+
+.style_s0 .clubcolor-header-color-bw, .richtarget .style_s0 .clubcolor-header-color-bw { color: #FFFFFF }
+.style_s0 .clubcolor-header-color-c150, .richtarget .style_s0 .clubcolor-header-color-c150 { color: #BFBFBF }
+.style_s0 .clubcolor-header-color-c9, .richtarget .style_s0 .clubcolor-header-color-c9 { color: #333333 }
+.style_s0 .clubcolor-header-color-c13, .richtarget .style_s0 .clubcolor-header-color-c13 { color: #333333 }
+.style_s0 .clubcolor-header-color-c19, .richtarget .style_s0 .clubcolor-header-color-c19 { color: #333333 }
+.style_s0 .clubcolor-header-color-c27, .richtarget .style_s0 .clubcolor-header-color-c27 { color: #454545 }
+.style_s0 .clubcolor-header-color-c40, .richtarget .style_s0 .clubcolor-header-color-c40 { color: #666666 }
+	
+.style_s0 .clubcolor-header-textcolor, .richtarget .style_s0 .clubcolor-header-textcolor { color: #FFF }
+.style_s0 .clubborderinset-header-textcolor, .richtarget .style_s0 .clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+			
+.style_s0 .isbwqsnstyle-header-color.clubcolorbw, .richtarget .style_s0 .isbwqsnstyle-header-color.clubcolorbw { color: #FFF }
+.style_s0 .isbwqsnstyle-header-color.clubborderinsetbw, .richtarget .style_s0 .isbwqsnstyle-header-color.clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+	
+.style_s0.headerstyle--, .richtarget .style_s0.headerstyle-- { border-style: none ; border-width: 0px; }
+.style_s0.headerstyle-- td.content, .richtarget .style_s0.headerstyle-- td.content { padding-top: 2px }
+.style_s0.headerstyle-- .header-row-padding, .richtarget .style_s0.headerstyle-- .header-row-padding { display: none }
+.style_s0.headerstyle-- .header-padding , .richtarget .style_s0.headerstyle-- .header-padding , .style_s0.headerstyle-- .header-tablemargin , .richtarget .style_s0.headerstyle-- .header-tablemargin { display: none }
+.style_s0.headerstyle-- .tablecontent, .richtarget .style_s0.headerstyle-- .tablecontent { border-style: solid ; border-width: 1px }
+.style_s0.headerstyle-- .tablecontent.clubbordercolorstandard.isbwpage, .richtarget .style_s0.headerstyle-- .tablecontent.clubbordercolorstandard.isbwpage { border-style: none ; border-width: 0px }
+			
+
+/* SN_STYLE default */
+		
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { line-height: 26px; font-size: 16px }
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { line-height: 26px; font-size: 16px }
+	
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { font-family: Arial, Helvetica, sans-serif }
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { font-family: Arial, Helvetica, sans-serif }
+.style_default .clubfontfamily-header-font, .richtarget .style_default .clubfontfamily-header-font { font-family: Arial, Helvetica, sans-serif }
+		
+.style_default .qlubcontainer_headermeasure.headerfont--, .richtarget .style_default .qlubcontainer_headermeasure.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+.style_default .qlubcontainer_headertext.headerfont--, .richtarget .style_default .qlubcontainer_headertext.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+.style_default .clubfontfamily-header-font.headerfont--, .richtarget .style_default .clubfontfamily-header-font.headerfont-- { font-family: Tahoma, Geneva, sans-serif }
+	
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { font-weight: bold }
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { font-weight: bold }
+	
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { font-style: italic }
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { font-style: italic }
+	
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { font-variant: normal ; text-transform: none }
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { font-variant: normal ; text-transform: none }
+	
+.style_default .qlubcontainer_headermeasure, .richtarget .style_default .qlubcontainer_headermeasure { text-align: center }
+.style_default .qlubcontainer_headertext, .richtarget .style_default .qlubcontainer_headertext { text-align: center }
+.style_default .withicon .qsnalign.qlubcontainer_headerbckg, .richtarget .style_default .withicon .qsnalign.qlubcontainer_headerbckg { padding-right: 46px }
+.style_default .qlubcontainer_noteheader h3, .richtarget .style_default .qlubcontainer_noteheader h3 { padding-top: 0px ; padding-bottom: 0px }
+.style_default h3.qlubcontainer_headertext, .richtarget .style_default h3.qlubcontainer_headertext { padding-top: 0px ; padding-bottom: 0px } /* compatibilité anciennes notes */
+.style_default .qlubcontainer_noteheader .header-padding, .richtarget .style_default .qlubcontainer_noteheader .header-padding { width: 0px }
+	
+.style_default .clubbackgroundcolor-header-color, .richtarget .style_default .clubbackgroundcolor-header-color { background-color: #000 }
+.style_default .clubcolor-header-color, .richtarget .style_default .clubcolor-header-color { color: #000 }
+
+.style_default .clubcolor-header-color-bw, .richtarget .style_default .clubcolor-header-color-bw { color: #FFFFFF }
+.style_default .clubcolor-header-color-c150, .richtarget .style_default .clubcolor-header-color-c150 { color: #BFBFBF }
+.style_default .clubcolor-header-color-c9, .richtarget .style_default .clubcolor-header-color-c9 { color: #333333 }
+.style_default .clubcolor-header-color-c13, .richtarget .style_default .clubcolor-header-color-c13 { color: #333333 }
+.style_default .clubcolor-header-color-c19, .richtarget .style_default .clubcolor-header-color-c19 { color: #333333 }
+.style_default .clubcolor-header-color-c27, .richtarget .style_default .clubcolor-header-color-c27 { color: #454545 }
+.style_default .clubcolor-header-color-c40, .richtarget .style_default .clubcolor-header-color-c40 { color: #666666 }
+	
+.style_default .clubcolor-header-textcolor, .richtarget .style_default .clubcolor-header-textcolor { color: #FFF }
+.style_default .clubborderinset-header-textcolor, .richtarget .style_default .clubborderinset-header-textcolor { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+			
+.style_default .isbwqsnstyle-header-color.clubcolorbw, .richtarget .style_default .isbwqsnstyle-header-color.clubcolorbw { color: #FFF }
+.style_default .isbwqsnstyle-header-color.clubborderinsetbw, .richtarget .style_default .isbwqsnstyle-header-color.clubborderinsetbw { border-color: #ABABAB #FFFFFF #FFFFFF #ABABAB }
+	
+.style_default.headerstyle--, .richtarget .style_default.headerstyle-- { border-style: none ; border-width: 0px; }
+.style_default.headerstyle-- td.content, .richtarget .style_default.headerstyle-- td.content { padding-top: 2px }
+.style_default.headerstyle-- .header-row-padding, .richtarget .style_default.headerstyle-- .header-row-padding { display: none }
+.style_default.headerstyle-- .header-padding , .richtarget .style_default.headerstyle-- .header-padding , .style_default.headerstyle-- .header-tablemargin , .richtarget .style_default.headerstyle-- .header-tablemargin { display: none }
+.style_default.headerstyle-- .tablecontent, .richtarget .style_default.headerstyle-- .tablecontent { border-style: solid ; border-width: 1px }
+.style_default.headerstyle-- .tablecontent.clubbordercolorstandard.isbwpage, .richtarget .style_default.headerstyle-- .tablecontent.clubbordercolorstandard.isbwpage { border-style: none ; border-width: 0px }
+			
