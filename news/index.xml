@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Nov 2020 17:51:47 +0330</lastBuildDate><atom:link href="http://mcmartin.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join Criteo</title>
+      <link>http://mcmartin.github.io/news/join-criteo/</link>
+      <pubDate>Thu, 17 Nov 2022 18:03:44 +0100</pubDate>
+      
+      <guid>http://mcmartin.github.io/news/join-criteo/</guid>
+      <description>From the 1st of April 2019, I am senior researcher at Criteo AI Lab, based in Grenoble FRANCE. The topics of interest of my team are causality, inference.</description>
+    </item>
+    
   </channel>
 </rss>
