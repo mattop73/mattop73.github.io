@@ -1,8 +1,0 @@
-#missing_editblock { display : none ; position: relative ; padding: 0 ;  z-index: 1 ; border : solid 0px #00f ; }
-
-#missing_notetemplate { display: none ; z-index: 1 }
-#missing_notetemplate_edit { display: none ; z-index: 1 }
-
-.missing_note { border : solid 1px #4A88AB ; background-color: #FFF }
-.missingnotekind { font-style: italic }
-.missing_noteimage { display: inline ; float: left ; margin: 0.1em 1em 1em 1em ; border: solid 0px ; border-color : #444 }

@@ -1,8 +1,0 @@
-@font-face {
-  font-family: q-sn-substitution ;
-  src: url('/style/fonts/q-sn-substitution/q-sn-substitution.eot');
-  src: url('/style/fonts/q-sn-substitution/q-sn-substitution.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-sn-substitution/q-sn-substitution.woff') format('woff'),
-       url('/style/fonts/q-sn-substitution/q-sn-substitution.ttf') format('truetype'),
-       url('/style/fonts/q-sn-substitution/q-sn-substitution.svg#q-sn-substitution') format('svg');
-}.font-q-sn-substitution { font-family : q-sn-substitution; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

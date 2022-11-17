@@ -1,8 +1,0 @@
-@font-face {
-  font-family: q-sn-nonsport ;
-  src: url('/style/fonts/q-sn-nonsport/q-sn-nonsport.eot');
-  src: url('/style/fonts/q-sn-nonsport/q-sn-nonsport.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-sn-nonsport/q-sn-nonsport.woff') format('woff'),
-       url('/style/fonts/q-sn-nonsport/q-sn-nonsport.ttf') format('truetype'),
-       url('/style/fonts/q-sn-nonsport/q-sn-nonsport.svg#q-i') format('svg');
-}.font-q-sn-nonsport { font-family : q-sn-nonsport; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

@@ -1,8 +1,0 @@
-@font-face {
-  font-family: q-sn-banner ;
-  src: url('/style/fonts/q-sn-banner/q-sn-banner.eot');
-  src: url('/style/fonts/q-sn-banner/q-sn-banner.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-sn-banner/q-sn-banner.woff') format('woff'),
-       url('/style/fonts/q-sn-banner/q-sn-banner.ttf') format('truetype'),
-       url('/style/fonts/q-sn-banner/q-sn-banner.svg#q-sn-banner') format('svg');
-}.font-q-sn-banner { font-family : q-sn-banner !important ; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

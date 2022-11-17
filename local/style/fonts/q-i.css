@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'q-i';
-  src: url('/style/fonts/q-i/q-i.eot');
-  src: url('/style/fonts/q-i/q-i.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-i/q-i.woff') format('woff'),
-       url('/style/fonts/q-i/q-i.ttf') format('truetype'),
-       url('/style/fonts/q-i/q-i.svg#q-i') format('svg');
-}
-.font-q-i { font-family : q-i ; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

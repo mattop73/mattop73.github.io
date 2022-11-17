@@ -1,8 +1,0 @@
-@font-face {
-  font-family: q-sn-web ;
-  src: url('/style/fonts/q-sn-web/q-sn-web.eot');
-  src: url('/style/fonts/q-sn-web/q-sn-web.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-sn-web/q-sn-web.woff') format('woff'),
-       url('/style/fonts/q-sn-web/q-sn-web.ttf') format('truetype'),
-       url('/style/fonts/q-sn-web/q-sn-web.svg#q-sn-web') format('svg');
-}.font-q-sn-web { font-family : q-sn-web; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }

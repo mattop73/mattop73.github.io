@@ -1,8 +1,0 @@
-@font-face {
-  font-family: q-sn-emotion ;
-  src: url('/style/fonts/q-sn-emotion/q-sn-emotion.eot');
-  src: url('/style/fonts/q-sn-emotion/q-sn-emotion.eot?#iefix') format('embedded-opentype'),
-       url('/style/fonts/q-sn-emotion/q-sn-emotion.woff') format('woff'),
-       url('/style/fonts/q-sn-emotion/q-sn-emotion.ttf') format('truetype'),
-       url('/style/fonts/q-sn-emotion/q-sn-emotion.svg#q-sn-emotion') format('svg');
-}.font-q-sn-emotion { font-family : q-sn-emotion; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
